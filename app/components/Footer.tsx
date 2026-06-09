@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="space-y-6">
             <div>
               <h3 className="text-[#D4AF37] text-3xl font-serif tracking-[0.25em] uppercase">
-                Fazuha Éclat
+                Fazuha Eclat
               </h3>
 
               <div className="w-16 h-[1px] bg-[#D4AF37]/50 mt-4"></div>
@@ -101,12 +101,7 @@ export default function Footer() {
               </li>
 
               <li>
-                <a
-                  href="#"
-                  className="flex items-center gap-2 text-[#D4AF37]/80 hover:text-[#D4AF37] transition-colors"
-                >
-                  Brand Approval <ExternalLink size={12} />
-                </a>
+                
               </li>
             </ul>
           </div>
@@ -125,7 +120,7 @@ export default function Footer() {
 
               <address className="not-italic text-sm leading-relaxed text-gray-500">
                 <span className="text-white font-medium block mb-1">
-                  Fazuha Éclat LLC
+                  Fazuha Eclat LLC
                 </span>
 
                 6001 W Parmer Lane, Ste 370 #543A
@@ -155,7 +150,7 @@ export default function Footer() {
 
           <div className="text-center md:text-left">
             <p className="text-[10px] uppercase tracking-[0.4em] text-gray-500">
-              © 2026 Fazuha Éclat LLC
+              © 2026 Fazuha Eclat LLC
             </p>
 
             <p className="mt-2 text-[10px] uppercase tracking-[0.3em] text-gray-700">
